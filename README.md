@@ -1,4 +1,4 @@
-# 使用最近很火的 OpenAi ChatGPT 配合 Wechaty 实现一个 微信聊天機器人
+# 一个简化的微信机器人,结合wechay搭建
 
 ### 根据荣顶大佬项目简化原项目链接:
     https://github.com/wangrongding/wechat-bot
@@ -22,7 +22,5 @@ OpenAI ChatGPT 模型使用了大量的语料数据进行预训练，并通过�
 ## 启动项目步骤
 ```
     npm i
-
-    npm start
-    
+    npm start 
 ```
