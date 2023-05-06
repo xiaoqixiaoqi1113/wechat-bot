@@ -1,6 +1,6 @@
 # 使用最近很火的 OpenAi ChatGPT 配合 Wechaty 实现一个 微信聊天機器人
 
-## 根据荣顶大佬项目简化原项目链接:https://github.com/wangrongding/wechat-bot
+### 根据荣顶大佬项目简化原项目链接:https://github.com/wangrongding/wechat-bot
 
 ## 前言
 
